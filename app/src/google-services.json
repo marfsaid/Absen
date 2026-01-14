@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087797910702",
+    "project_id": "peng-android",
+    "storage_bucket": "peng-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087797910702:android:2d5d89c26a4529db72213f",
+        "android_client_info": {
+          "package_name": "com.example.absen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087797910702-2f8efr99ddnljkfigl3u5i83bjoaq4vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq8JPOjSMaReHfapRuKIPxiKsa6M017kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087797910702-2f8efr99ddnljkfigl3u5i83bjoaq4vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
