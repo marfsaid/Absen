@@ -1,6 +1,7 @@
 <div align="center">
 
 # ABSEN APP
+## Ini adalah tugas Pengembangan Aplikasi Mobile Sistem dan Teknologi Infomasi Nobel Indonesia institute
 ### Attendance App — Jetpack Compose • Firebase Auth • Firestore • Location Radius
 
 <p align="center"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="55" height="55"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="55" height="55"/> </a> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width ="55" height ="55"> </p>
