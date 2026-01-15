@@ -49,7 +49,7 @@ ABSEN APP adalah aplikasi absensi yang memverifikasi lokasi user terhadap titik 
 # Setup
 
 ```bash
-git clone https://github.com/<USERNAME>/<REPO>.git
+git clone https://github.com/marfsaid/Absen.git
 cd <REPO>
 ```
 
