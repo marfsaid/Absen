@@ -50,7 +50,7 @@ ABSEN APP adalah aplikasi absensi yang memverifikasi lokasi user terhadap titik 
 
 ```bash
 git clone https://github.com/marfsaid/Absen.git
-cd <REPO>
+cd Absen
 ```
 
 ###  Firebase
