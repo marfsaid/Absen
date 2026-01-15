@@ -13,7 +13,7 @@ Aplikasi absensi Android berbasis lokasi. User absen masuk/keluar dengan validas
 ---
 
 ## Ringkasan
-Absen (MyAbsen) adalah aplikasi absensi yang memverifikasi lokasi user terhadap titik kantor (radius). Data absensi disimpan di Cloud Firestore, autentikasi memakai Firebase Auth. UI dibangun dengan Jetpack Compose (Material 3) dan navigasi memakai Navigation Compose.
+ABSEN APP adalah aplikasi absensi yang memverifikasi lokasi user terhadap titik kantor (radius). Data absensi disimpan di Cloud Firestore, autentikasi memakai Firebase Auth. UI dibangun dengan Jetpack Compose (Material 3) dan navigasi memakai Navigation Compose.
 
 ---
 
